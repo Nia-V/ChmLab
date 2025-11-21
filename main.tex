@@ -1,0 +1,113 @@
+%=================================================================
+% Modèle de devoir - Version française
+%=================================================================
+
+\documentclass[12pt,a4paper]{article}
+
+%---------------------------------------------------------------
+% PACKAGES
+%---------------------------------------------------------------
+\usepackage[T1]{fontenc}              % Encodage correct
+\usepackage[utf8]{inputenc}           % Support UTF-8
+\usepackage[french]{babel}            % Langue française
+\usepackage{geometry}                 % Marges
+\geometry{margin=2.0cm}
+\usepackage{amsmath,amssymb,amsthm}   % Math
+\usepackage{graphicx}                 % Images
+\usepackage{array}                    % Tableaux avancés
+\usepackage{tikz}                     % K-maps, circuits logiques
+\usetikzlibrary{matrix, positioning}  % Bibliothèques TikZ nécessaires
+\usepackage{caption}                  % Légendes personnalisées
+\usepackage{multirow}                 % Cellules multi-lignes
+\usepackage{xcolor}                   % Couleurs
+\usepackage{fancyhdr}                 % En-têtes / pieds de page
+\usepackage{hyperref}                 % Liens hypertextes
+\usepackage{float}                    % Placement précis
+\usepackage{datetime}                 % Formatage de dates
+\usepackage{ctable}
+\usetikzlibrary{calc}
+\usepackage{ragged2e}
+\usepackage{csquotes}                 % Recommandé avec biblatex
+\usepackage{newtxtext,newtxmath}
+\usepackage{setspace}
+
+% --- BIBLIOGRAPHIE (style APA ÉTS) ---
+\usepackage[style=apa,backend=biber,sorting=nyt]{biblatex}
+\setlength\bibitemsep{0.8\baselineskip}
+\DeclareLanguageMapping{french}{french-apa}
+\addbibresource{sample.bib}
+
+%---------------------------------------------------------------
+% INFORMATIONS DU COURS ET DU GROUPE
+%---------------------------------------------------------------
+\newcommand{\codeclasse}{CHM131-}                     % Code du cours
+\newcommand{\nomclasse}{Chimie et matériaux}          % Nom du cours
+\newcommand{\titredevoir}{Laboratoire: Adoucissement par précipitation}
+\newcommand{\groupe}{15}
+\newcommand{\enseignant}{Marc Fraser}
+\newcommand{\datedepot}{21 octobre 2025}
+\newcommand{\Session}{A25}
+\newcommand{\auteurs}{
+    Ourania Voyatzis~(VOYO78260401)\\
+    Kian Chowanietz~(CHOK86330401)\\
+    Gubens Romulus~(ROMG77300401)\\
+    Loïc Lompo~(LOMY76310501)
+}
+
+%---------------------------------------------------------------
+% DÉBUT DU DOCUMENT
+%---------------------------------------------------------------
+\begin{document}
+\onehalfspacing
+
+\begin{titlepage}
+\RaggedLeft\auteurs\\
+    \vspace*{\fill}
+    \centering{
+    \textbf{\titredevoir}\\[0.5em]
+    \vspace*{\fill} 
+    \textbf{\nomclasse\ (\codeclasse\groupe)}\\[0.5em]
+    \textbf{Remis à: }\enseignant \\[1em]
+    \vspace*{\fill}
+
+    \textbf{Date: } \datedepot\\
+    \textbf{Date de remise:}\text{ 24 novembre 2025}
+    }
+\end{titlepage}
+
+\pagestyle{fancy}
+
+
+%---------------------------------------------------------------
+% CONTENU
+%---------------------------------------------------------------
+\section*{Introduction}
+
+\paragraph{}Les sources d'eau dure peuvent poser de nombreux problèmes aux procédés industriels ainsi qu'à certains types d'instruments et aux canalisations. La principale solution à ce problème courant consiste à utiliser différentes méthodes d'adoucissement de l'eau. L'eau dure est généralement, et dans ce cas précis, une eau contenant une forte concentration d'ions calcium (\(Ca^{2+}\)) dissous. Bien qu'il puisse également s'agir d'un autre ion ou d'une combinaison d'ions, l'objectif final de l'adoucissement de l'eau peut, dans tous les cas, être atteint par des moyens chimiques et/ou mécaniques. Dans le cadre de ce laboratoire, l'objectif est d'adoucir l'eau pour faire de la bière en éliminant les ions calcium afin qu'elle soit utilisable dans ce procédé industriel. Pour ce faire, la concentration de calcium est mesurée, précipitée hors de la solution et filtrée mécaniquement afin d'obtenir le produit final : de l'eau adoucie.
+
+\section*{Principe}
+
+\paragraph{}Les tests préliminaires réalisés sur l’eau souterraine de Loublonnière ont montré qu’elle présente des qualités organoleptiques et chimiques favorables à la fabrication de la bière, à l’exception d’une dureté trop élevée \parencite{piotte_chm131_2025}. Une eau de consommation est considérée de bonne qualité lorsqu’elle possède un goût neutre, sans arrière-goût métallique, et qu’elle est incolore, limpide et sans odeur perceptible \parencite{mediaterre_importance_2013}. La présence de certains ions peut toutefois influencer positivement le goût final de la bière : par exemple, une eau contenant une concentration de chlorure supérieure à celle de sulfate peut \textit{« rehausser la rondeur et la douceur du malt »} \parencite{giovanisci_beginners_2022}.
+
+\paragraph{}La dureté de l’eau est principalement causée par la présence d’ions calcium (\(Ca^{2+}\)) et magnésium (\(Mg^{2+}\)) dissous. Une concentration trop élevée en ces ions peut nuire à certains procédés industriels et altérer la saveur des boissons produites avec cette eau.\textit{« Les eaux souterraines qui ont été en contact avec des roches poreuses contenant des dépôts de minéraux comme le calcaire ou la dolomie »}\parencite{mcvean_is_nodate}
+
+
+\[  \]
+
+\paragraph{}Dans ce laboratoire, l’adoucissement de l’eau est effectué par précipitation chimique. Un réactif, le carbonate de sodium (\(Na_2CO_3\)), contenant des ions carbonate (\(CO_3^{2-}\)) est ajouté afin de former un précipité insoluble de carbonate de calcium, éliminant ainsi une partie des ions responsables de la dureté. L’équation ionique simplifiée de cette réaction est la suivante :
+
+\[
+\mathrm{Ca^{2+}_{(aq)} + CO^{2-}_{3(aq)} \rightarrow CaCO_{3(s)}}
+\]
+
+\paragraph{}Le carbonate de calcium précipité est ensuite séparé mécaniquement par filtration, permettant d’obtenir une eau adoucie dont la concentration en ions calcium est réduite.
+
+% ... ici viendront tes autres sections (Manipulations, Mesures, Calculs, etc.)
+
+%---------------------------------------------------------------
+% BIBLIOGRAPHIE
+%---------------------------------------------------------------
+\newpage
+\printbibliography[title={Bibliographie}]
+
+\end{document}
