@@ -19,6 +19,44 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{brewing_gypsum_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae30436c8b58cd99e7dee909f6e16ec9}{%
+           family={Brewing},
+           familyi={B\bibinitperiod},
+           given={Craft\bibnamedelimb Beer\bibnamedelima {\textbackslash}\&},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim }\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{fullhash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{fullhashraw}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{bibnamehash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{authorbibnamehash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{authornamehash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{authorfullhash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{authorfullhashraw}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{is a natural form of calcium sulfate, {CaSO} 4, with varying degrees of water of crystallization (usually 2 H 2 0). It is relatively insoluble in water and is the main constituent of}
+      \field{langid}{english}
+      \field{title}{gypsum {|} The Oxford Companion to Beer}
+      \field{titleaddon}{Craft Beer \& Brewing}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.beerandbrewing.com/dictionary/6KDwm8vWwW
+      \endverb
+      \verb{url}
+      \verb https://www.beerandbrewing.com/dictionary/6KDwm8vWwW
+      \endverb
+    \endentry
     \entry{giovanisci_beginners_2022}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0debab984ff87813a209c742118895e4}{%
@@ -88,9 +126,6 @@
       \field{year}{2019}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:C\:\\Users\\niave\\Zotero\\storage\\HBVM5KY5\\you-asked-hard-water-dangerous-drink.html:text/html
-      \endverb
       \verb{urlraw}
       \verb https://www.mcgill.ca/oss/article/health-you-asked/you-asked-hard-water-dangerous-drink
       \endverb
@@ -169,6 +204,44 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{brewing_gypsum_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae30436c8b58cd99e7dee909f6e16ec9}{%
+           family={Brewing},
+           familyi={B\bibinitperiod},
+           given={Craft\bibnamedelimb Beer\bibnamedelima {\textbackslash}\&},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim }\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{fullhash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{fullhashraw}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{bibnamehash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{authorbibnamehash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{authornamehash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{authorfullhash}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \strng{authorfullhashraw}{ae30436c8b58cd99e7dee909f6e16ec9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{is a natural form of calcium sulfate, {CaSO} 4, with varying degrees of water of crystallization (usually 2 H 2 0). It is relatively insoluble in water and is the main constituent of}
+      \field{langid}{english}
+      \field{title}{gypsum {|} The Oxford Companion to Beer}
+      \field{titleaddon}{Craft Beer \& Brewing}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.beerandbrewing.com/dictionary/6KDwm8vWwW
+      \endverb
+      \verb{url}
+      \verb https://www.beerandbrewing.com/dictionary/6KDwm8vWwW
+      \endverb
+    \endentry
     \entry{giovanisci_beginners_2022}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0debab984ff87813a209c742118895e4}{%
@@ -238,9 +311,6 @@
       \field{year}{2019}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:C\:\\Users\\niave\\Zotero\\storage\\HBVM5KY5\\you-asked-hard-water-dangerous-drink.html:text/html
-      \endverb
       \verb{urlraw}
       \verb https://www.mcgill.ca/oss/article/health-you-asked/you-asked-hard-water-dangerous-drink
       \endverb
