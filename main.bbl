@@ -1,0 +1,389 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{giovanisci_beginners_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0debab984ff87813a209c742118895e4}{%
+           family={Giovanisci},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0debab984ff87813a209c742118895e4}
+      \strng{fullhash}{0debab984ff87813a209c742118895e4}
+      \strng{fullhashraw}{0debab984ff87813a209c742118895e4}
+      \strng{bibnamehash}{0debab984ff87813a209c742118895e4}
+      \strng{authorbibnamehash}{0debab984ff87813a209c742118895e4}
+      \strng{authornamehash}{0debab984ff87813a209c742118895e4}
+      \strng{authorfullhash}{0debab984ff87813a209c742118895e4}
+      \strng{authorfullhashraw}{0debab984ff87813a209c742118895e4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Beginner's Guide to Brewing Water Chemistry}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.brewcabin.com/brewing-water/
+      \endverb
+      \verb{url}
+      \verb https://www.brewcabin.com/brewing-water/
+      \endverb
+    \endentry
+    \entry{mcvean_is_2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e42edb8cc52382fd7ea531a0e61ba0d}{%
+           family={McVean},
+           familyi={M\bibinitperiod},
+           given={Ada},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{fullhash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{fullhashraw}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{bibnamehash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{authorbibnamehash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{authornamehash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{authorfullhash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{authorfullhashraw}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Is hard water dangerous to drink?}
+      \field{titleaddon}{Office for Science and Society}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mcgill.ca/oss/article/health-you-asked/you-asked-hard-water-dangerous-drink
+      \endverb
+      \verb{url}
+      \verb https://www.mcgill.ca/oss/article/health-you-asked/you-asked-hard-water-dangerous-drink
+      \endverb
+    \endentry
+    \entry{mediaterre_importance_2013}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2e0e4dd3353a8ea2dae8a570456c4517}{%
+           family={{Médiaterre}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{fullhash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{fullhashraw}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{bibnamehash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{authorbibnamehash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{authornamehash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{authorfullhash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{authorfullhashraw}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{L'importance des propriétés organoleptiques de l'eau}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mediaterre.org/eau/actu,20130218103536,1.html
+      \endverb
+      \verb{url}
+      \verb https://www.mediaterre.org/eau/actu,20130218103536,1.html
+      \endverb
+    \endentry
+    \entry{oliver_oxford_2013}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=504be6ddc11da3b63730f72beab94c66}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={Garrett},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Univ. Press}%
+      }
+      \strng{namehash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{fullhash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{fullhashraw}{504be6ddc11da3b63730f72beab94c66}
+      \strng{bibnamehash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{editorbibnamehash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{editornamehash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{editorfullhash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{editorfullhashraw}{504be6ddc11da3b63730f72beab94c66}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-19-536713-3,978-0-19-998999-7}
+      \field{pagetotal}{1}
+      \field{title}{The Oxford companion to beer}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{piotte_chm131_2025}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ba24d11d40cbcc0893266a767b86563}{%
+           family={Piotte},
+           familyi={P\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=248ca79f49bf317b1b034852acfd25b2}{%
+           family={Bélisle},
+           familyi={B\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {École de technologie supérieure (É{TS})}%
+      }
+      \strng{namehash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{fullhash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{fullhashraw}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{bibnamehash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{authorbibnamehash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{authornamehash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{authorfullhash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{authorfullhashraw}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Place: Montréal, {QC}}
+      \field{title}{{CHM}131 – Modules 2 et 3 – Laboratoire : Adoucissement par précipitation (protocole)}
+      \field{year}{2025}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{giovanisci_beginners_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0debab984ff87813a209c742118895e4}{%
+           family={Giovanisci},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0debab984ff87813a209c742118895e4}
+      \strng{fullhash}{0debab984ff87813a209c742118895e4}
+      \strng{fullhashraw}{0debab984ff87813a209c742118895e4}
+      \strng{bibnamehash}{0debab984ff87813a209c742118895e4}
+      \strng{authorbibnamehash}{0debab984ff87813a209c742118895e4}
+      \strng{authornamehash}{0debab984ff87813a209c742118895e4}
+      \strng{authorfullhash}{0debab984ff87813a209c742118895e4}
+      \strng{authorfullhashraw}{0debab984ff87813a209c742118895e4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Beginner's Guide to Brewing Water Chemistry}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.brewcabin.com/brewing-water/
+      \endverb
+      \verb{url}
+      \verb https://www.brewcabin.com/brewing-water/
+      \endverb
+    \endentry
+    \entry{mcvean_is_2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e42edb8cc52382fd7ea531a0e61ba0d}{%
+           family={McVean},
+           familyi={M\bibinitperiod},
+           given={Ada},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{fullhash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{fullhashraw}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{bibnamehash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{authorbibnamehash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{authornamehash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{authorfullhash}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \strng{authorfullhashraw}{9e42edb8cc52382fd7ea531a0e61ba0d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Is hard water dangerous to drink?}
+      \field{titleaddon}{Office for Science and Society}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mcgill.ca/oss/article/health-you-asked/you-asked-hard-water-dangerous-drink
+      \endverb
+      \verb{url}
+      \verb https://www.mcgill.ca/oss/article/health-you-asked/you-asked-hard-water-dangerous-drink
+      \endverb
+    \endentry
+    \entry{mediaterre_importance_2013}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2e0e4dd3353a8ea2dae8a570456c4517}{%
+           family={{Médiaterre}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{fullhash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{fullhashraw}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{bibnamehash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{authorbibnamehash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{authornamehash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{authorfullhash}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \strng{authorfullhashraw}{2e0e4dd3353a8ea2dae8a570456c4517}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{L'importance des propriétés organoleptiques de l'eau}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mediaterre.org/eau/actu,20130218103536,1.html
+      \endverb
+      \verb{url}
+      \verb https://www.mediaterre.org/eau/actu,20130218103536,1.html
+      \endverb
+    \endentry
+    \entry{oliver_oxford_2013}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=504be6ddc11da3b63730f72beab94c66}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={Garrett},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Univ. Press}%
+      }
+      \strng{namehash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{fullhash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{fullhashraw}{504be6ddc11da3b63730f72beab94c66}
+      \strng{bibnamehash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{editorbibnamehash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{editornamehash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{editorfullhash}{504be6ddc11da3b63730f72beab94c66}
+      \strng{editorfullhashraw}{504be6ddc11da3b63730f72beab94c66}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-19-536713-3,978-0-19-998999-7}
+      \field{pagetotal}{1}
+      \field{title}{The Oxford companion to beer}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{piotte_chm131_2025}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ba24d11d40cbcc0893266a767b86563}{%
+           family={Piotte},
+           familyi={P\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=248ca79f49bf317b1b034852acfd25b2}{%
+           family={Bélisle},
+           familyi={B\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {École de technologie supérieure (É{TS})}%
+      }
+      \strng{namehash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{fullhash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{fullhashraw}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{bibnamehash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{authorbibnamehash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{authornamehash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{authorfullhash}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \strng{authorfullhashraw}{07686dea5e1adb8b77f5cfdf124e8e16}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Place: Montréal, {QC}}
+      \field{title}{{CHM}131 – Modules 2 et 3 – Laboratoire : Adoucissement par précipitation (protocole)}
+      \field{year}{2025}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
