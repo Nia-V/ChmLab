@@ -30,6 +30,7 @@
 \usepackage{csquotes}                 % Recommandé avec biblatex
 \usepackage{newtxtext,newtxmath}
 \usepackage{setspace}
+\usepackage{tabu}
 
 % --- BIBLIOGRAPHIE (style APA ÉTS) ---
 \usepackage[style=apa,backend=biber,sorting=nyt]{biblatex}
@@ -103,16 +104,64 @@
 \paragraph{}Le carbonate de calcium précipité est ensuite séparé mécaniquement par filtration, permettant d’obtenir une eau adoucie dont la concentration en ions calcium est réduite.
 
 
-\paragraph{}Dans ce laboratoire, la quantité d'ions calcium libres dans l'eau du puits de Loublonnière a été mesurée par titrage de l'EDTA dans la solution. L'EDTA se lie aux ions (\( Ca^{2+} \)) dans l'eau. Le NaOH est utilisé pour ajuster le pH de la solution car l'EDTA se lie mieux au calcium dans des conditions légèrement basiques. L'indicateur coloré change de couleur en fonction de la quantité de (\( Ca^{2+} \)) libre dans la solution. L'équation chimique de complexification pour cette réaction est la suivante.  
+\paragraph{}Dans ce laboratoire, la quantité d'ions calcium libres dans l'eau du puits de Loublonnière a été mesurée par titrage de l'EDTA dans la solution. L'EDTA se lie aux ions (\( Ca^{2+} \)) dans l'eau. Le (\( NaOH \)) est utilisé pour augmenter le pH de la solution car l'EDTA se lie mieux au calcium dans des conditions légèrement basiques. L'indicateur coloré change de couleur en fonction de la quantité de (\( Ca^{2+} \)) libre dans la solution. L'équation chimique de complexification pour cette réaction est la suivante.  
 
 \[ Ca^{2+}_{~~(aq)}+EDTA^{4−}_{~~(aq)}\rightarrow CaEDTA^{2−}_{~~(aq)} \]
 
 
 
 \section*{Manipulations}
-\paragraph{}La procédure consistait d'abord à mesurer la concentration des ions Ca libres dans l'eau du puits dans deux essais différents. Pour ce faire, nous avons ajouté du NaOH à l'eau et de l'indicateur coloré BBR à l'eau. Nous avons ensuite effectué un titrage à l'EDTA jusqu'à ce que les deux échantillons deviennent violets, lorsque tout le calcium a été lié à l'EDTA et qu'il ne reste plus d'ions libres.
-Ensuite, la réaction de précipitation avec NaCO3 a été effectuée avec un troisième échantillon, qui a ensuite été filtré et dont la quantité de précipité a été mesurée.
-% ... ici viendront tes autres sections (Manipulations, Mesures, Calculs, etc.)
+\paragraph{}La procédure consistait d'abord à mesurer la concentration des ions (\( Ca^{2+} \)) libres dans l'eau du puits dans deux essais différents. Pour ce faire, du (\( NaOH \)) et de l'indicateur coloré BBR as était ajouter à l'eau. Nous avons ensuite effectué un titrage à l'EDTA jusqu'à ce que les deux échantillons deviennent bleu pale, lorsque tout le calcium a été lié à l'EDTA et qu'il ne reste plus d'ions libres.
+Ensuite, la réaction de précipitation avec (\(Na_2CO_3\)) a été effectuée avec un troisième échantillon, qui a ensuite été filtré et dont la quantité de précipité a été mesurée. \parencite{piotte_chm131_2025}
+
+
+\section*{Résultats}
+\subsection*{Partie 1: Titrages}
+\begin{figure}[H]
+	\centering
+	\caption{\label{fig:figure1}Mesures du titrage 1}
+	\small
+	\begin{tabu} to \textwidth { 
+			| >{\centering\arraybackslash}m{2.5cm} 
+			| >{\centering\arraybackslash}m{2.5cm} 
+			| >{\centering\arraybackslash}m{2.5cm} 
+			| >{\centering\arraybackslash}m{2.25cm} 
+			| >{\centering\arraybackslash}m{2.5cm} 
+			| >{\centering\arraybackslash}m{2.25cm} | 
+		}
+		\hline
+		Grandeur & Mesure & Incertitude instrumentale & Incertitude expérimentale & Incertitude globale & Unité de mesure \\
+		\hline
+		Volume de l'échantillon d'eau de puits & 10 & $\pm 0,1$ & $\pm 0,1$ & $\pm 0,2$ & mL \\
+		\hline
+		Volume de titrant (EDTA) & 7.6 & $\pm 0,05$ & $\pm 0,15$ & $\pm 0,2$ & mL \\
+		\hline
+	\end{tabu}
+\end{figure}
+
+
+\begin{figure}[H]
+	\centering
+	\caption{\label{fig:figure2}Mesures du titrage 2}
+	\small
+	\begin{tabu} to \textwidth { 
+			| >{\centering\arraybackslash}m{2.5cm} 
+			| >{\centering\arraybackslash}m{2.5cm} 
+			| >{\centering\arraybackslash}m{2.5cm} 
+			| >{\centering\arraybackslash}m{2.25cm} 
+			| >{\centering\arraybackslash}m{2.5cm} 
+			| >{\centering\arraybackslash}m{2.25cm} | 
+		}
+		\hline
+		Grandeur & Mesure & Incertitude instrumentale & Incertitude expérimentale & Incertitude globale & Unité de mesure \\
+		\hline
+		Volume de l'échantillon d'eau de puits & 10 & $\pm 0,1$ & $\pm 0,1$ & $\pm 0,2$ & mL \\
+		\hline
+		Volume de titrant (EDTA) & 7.8 & $\pm 0,05$ & $\pm 0,15$ & $\pm 0,2$ & mL \\
+		\hline
+	\end{tabu}
+\end{figure}
+
 
 %---------------------------------------------------------------
 % BIBLIOGRAPHIE
